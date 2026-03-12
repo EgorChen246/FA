@@ -37,5 +37,5 @@
 
 Задание на 5-6 семинар (3_sem)
 --
-книги: Моргунов, Е. П. PostgreSQL. Основы языка SQL [Текст] : учеб. пособие / Е. П. Моргунов ; под ред. Е. В. Рогова, П. В. Лузанова. – СПб. : БХВ-Петербург, 2018. – 336 с. https://postgrespro.ru/education/books/sqlprimer  https://edu.postgrespro.ru/sql_primer.pdf  Страницы 280-286 
+Книга: Моргунов, Е. П. PostgreSQL. Основы языка SQL [Текст] : учеб. пособие / Е. П. Моргунов ; под ред. Е. В. Рогова, П. В. Лузанова. – СПб. : БХВ-Петербург, 2018. – 336 с. https://postgrespro.ru/education/books/sqlprimer  https://edu.postgrespro.ru/sql_primer.pdf  Страницы 280-286 
 
