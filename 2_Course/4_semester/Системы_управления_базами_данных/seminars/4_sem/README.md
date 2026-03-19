@@ -1,6 +1,7 @@
-
+Задание на 7 семинар (4_sem)
 --
-Часть 1:
-https://docs.google.com/presentation/d/19hY70F028I1SSPfecYZqgfzPbp2zD3Pt/edit?usp=drive_link&ouid=106241345960890878608&rtpof=true&sd=true 
-задание - слайд 75-77
+**Часть 1** (слайды 75-77) \
+1. \
+2. 
 
+**Часть 2** 
