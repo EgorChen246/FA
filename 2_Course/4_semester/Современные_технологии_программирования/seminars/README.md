@@ -1,4 +1,4 @@
-1 Семинар (Task 1)
+1 Семинар (1_sem)
 --
 8 заданий \
 https://aliebraheem-fun.github.io/Modern-Programming-Technologies/#/practice1
