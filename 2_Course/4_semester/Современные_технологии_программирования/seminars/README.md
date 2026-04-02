@@ -10,5 +10,5 @@ https://aliebraheem-fun.github.io/Modern-Programming-Technologies/#/practice2
 
 3 Задание (3_sem)
 --
-10 заданий \
+Презентация \
 https://aliebraheem-fun.github.io/Modern-Programming-Technologies/#/presentations
