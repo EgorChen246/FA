@@ -1,3 +1,5 @@
+https://drive.google.com/drive/folders/1a0w2v2OrkOj8kqbdgpxVWpESX02J5PGX?hl=ru
+
 # Задание на 1-3 семинар (1_sem)
 
 **Упражнение 1 (блок)**
