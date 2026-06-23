@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="./banner.svg" width="1000">
-</p>
+</p> 
 
 ### 1 Курс
 
