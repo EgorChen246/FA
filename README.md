@@ -3,7 +3,7 @@
 <img src="https://github.com/EgorChen246/FA/blob/15c945f1ee509b39c04008a7acdbd66e9d23fc25/fa.png" /> <img src="https://github.com/EgorChen246/FA/blob/1b086c8e433ecff022ea296c176b70d64cb60281/pmiit.png" width="85" height="85" />
 
 <p align="center">
-  <img src="./banner.svg" width="1000">
+  <img src="https://github.com/EgorChen246/FA/blob/683bf7aa6b91ad91b4ff941e9845a360f27a8050/banner.svg" width="1000">
 </p>
 
 ### 1 Курс
