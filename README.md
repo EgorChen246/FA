@@ -2,7 +2,7 @@
 Репозиторий практик факультета ИТиАБД направления Прикладной Информатики в Финансовом Университете при Правительстве РФ [2024-2028]
 
 <img src="https://github.com/GeorgiyDemo/FA/blob/img/fa.png" /> <img src="https://github.com/GeorgiyDemo/FA/blob/img/pmiit.png" width="85" height="85" />
-<img src="https://github.com/GeorgiyDemo/FA/blob/img/cat.jpg" align="right"/>
+
 
 ## Учебные материалы направления ПИ факультета ИТиАБД в ФУ при Правительстве РФ
 
