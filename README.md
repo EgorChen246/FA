@@ -4,7 +4,7 @@
 <img src="https://github.com/EgorChen246/FA/blob/15c945f1ee509b39c04008a7acdbd66e9d23fc25/fa.png" align="right" />
 <br clear="both" />
 
-<img src="https://github.com/EgorChen246/FA/blob/5568781c931450f0d592995f096b36a1e493de2f/banner2.svg" align="center">
+<img src="https://github.com/EgorChen246/FA/blob/6b4fb015539c2d9602e7f3a63b21b47c86e75b7c/banner.svg" align="center">
 
 ### 1 Курс
 
