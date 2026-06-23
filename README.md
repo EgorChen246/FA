@@ -4,26 +4,17 @@
 <img src="https://github.com/EgorChen246/FA/blob/15c945f1ee509b39c04008a7acdbd66e9d23fc25/fa.png" align="right" />
 <br clear="both" />
 
-<p align="center">
-  <svg width="700" height="90" xmlns="http://www.w3.org/2000/svg">
-
-    <text x="50%" y="50%" text-anchor="middle"
-          dominant-baseline="middle"
-          font-size="40"
-          fill="#2c3e50">
-
+<svg width="700" height="90" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="50%" text-anchor="middle" font-size="28">
+    <tspan>
       7 на 8, 2 на 1.5 ИТиАБ, вперёд, ура! 🎉
-
-      <!-- плавное появление/исчезновение -->
       <animate attributeName="opacity"
                values="0;1;0"
-               dur="3s"
-               repeatCount="indefinite"/>
-
-    </text>
-
-  </svg>
-</p>
+               dur="2s"
+               repeatCount="indefinite" />
+    </tspan>
+  </text>
+</svg>
 
 ### 1 Курс
 
