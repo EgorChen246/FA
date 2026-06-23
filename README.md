@@ -6,17 +6,22 @@
 
 <p align="center">
   <svg width="700" height="90" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .text { font: bold 40px sans-serif; fill: #2c3e50; }
-      .anim { animation: fadeIn 2.5s ease forwards; opacity: 0; }
-      @keyframes fadeIn {
-        0% { opacity: 0; transform: translateY(30px); }
-        100% { opacity: 1; transform: translateY(0); }
-      }
-    </style>
-    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central" class="text anim">
+
+    <text x="50%" y="50%" text-anchor="middle"
+          dominant-baseline="middle"
+          font-size="40"
+          fill="#2c3e50">
+
       7 на 8, 2 на 1.5 ИТиАБ, вперёд, ура! 🎉
+
+      <!-- плавное появление/исчезновение -->
+      <animate attributeName="opacity"
+               values="0;1;0"
+               dur="3s"
+               repeatCount="indefinite"/>
+
     </text>
+
   </svg>
 </p>
 
