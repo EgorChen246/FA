@@ -88,6 +88,5 @@
 ---
 
 ### Похожие репозитории и полезные ссылки
-*(Здесь можно указать ссылки на другие ваши работы)*
-* [Похожий репозиторий ПИ]([2_Course/3_semester/Иностранный_язык](https://github.com/GeorgiyDemo/FA))
+[Похожий репозиторий ПИ]([2_Course/3_semester/Иностранный_язык](https://github.com/GeorgiyDemo/FA))
 * [Похожий репозиторий ПИ]([2_Course/3_semester/Иностранный_язык](https://github.com/GeorgiyDemo/FA))
