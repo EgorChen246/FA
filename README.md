@@ -5,12 +5,12 @@
 <br clear="both" />
 
 <p align="center">
-  <svg width="600" height="80" xmlns="http://www.w3.org/2000/svg">
+  <svg width="700" height="90" xmlns="http://www.w3.org/2000/svg">
     <style>
-      .text { font: bold 36px sans-serif; fill: #2c3e50; }
-      .anim { animation: fadeIn 2s ease forwards; opacity: 0; }
+      .text { font: bold 40px sans-serif; fill: #2c3e50; }
+      .anim { animation: fadeIn 2.5s ease forwards; opacity: 0; }
       @keyframes fadeIn {
-        0% { opacity: 0; transform: translateY(20px); }
+        0% { opacity: 0; transform: translateY(30px); }
         100% { opacity: 1; transform: translateY(0); }
       }
     </style>
