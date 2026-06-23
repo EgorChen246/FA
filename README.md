@@ -4,17 +4,9 @@
 <img src="https://github.com/EgorChen246/FA/blob/15c945f1ee509b39c04008a7acdbd66e9d23fc25/fa.png" align="right" />
 <br clear="both" />
 
-<svg width="700" height="90" xmlns="http://www.w3.org/2000/svg">
-  <text x="50%" y="50%" text-anchor="middle" font-size="28">
-    <tspan>
-      7 на 8, 2 на 1.5 ИТиАБ, вперёд, ура! 🎉
-      <animate attributeName="opacity"
-               values="0;1;0"
-               dur="2s"
-               repeatCount="indefinite" />
-    </tspan>
-  </text>
-</svg>
+<p align="center">
+  <img src="./banner.svg" width="1000">
+</p>
 
 ### 1 Курс
 
