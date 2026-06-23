@@ -1,6 +1,6 @@
 ## Учебные материалы направления ПИ факультета ИТиАБД в ФУ при Правительстве РФ
 
-<img src="https://github.com/EgorChen246/FA/blob/15c945f1ee509b39c04008a7acdbd66e9d23fc25/fa.png" /> <img src="https://github.com/GeorgiyDemo/FA/blob/img/pmiit.png" width="85" height="85" />
+<img src="https://github.com/EgorChen246/FA/blob/15c945f1ee509b39c04008a7acdbd66e9d23fc25/fa.png" /> <img src="https://github.com/EgorChen246/FA/blob/1b086c8e433ecff022ea296c176b70d64cb60281/pmiit.png" width="85" height="85" />
 
 ### 1 Курс
 
