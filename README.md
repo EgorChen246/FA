@@ -1,11 +1,10 @@
 ## Учебные материалы направления ПИ факультета ИТиАБД в ФУ при Правительстве РФ
 
-<img src="https://github.com/EgorChen246/FA/blob/1b086c8e433ecff022ea296c176b70d64cb60281/pmiit.png" width="85" height="85" align="left" />
-<img src="https://github.com/EgorChen246/FA/blob/6b4fb015539c2d9602e7f3a63b21b47c86e75b7c/banner.svg" align="center">
-<img src="https://github.com/EgorChen246/FA/blob/15c945f1ee509b39c04008a7acdbd66e9d23fc25/fa.png" align="right" />
-<br clear="both" />
-
-<img src="https://github.com/EgorChen246/FA/blob/6b4fb015539c2d9602e7f3a63b21b47c86e75b7c/banner.svg" align="center">
+<div style="text-align: center; white-space: nowrap;">
+  <img src="https://github.com/EgorChen246/FA/blob/1b086c8e433ecff022ea296c176b70d64cb60281/pmiit.png" width="85" height="85" style="display: inline-block; vertical-align: middle; margin: 0 20px;" />
+  <img src="https://github.com/EgorChen246/FA/blob/6b4fb015539c2d9602e7f3a63b21b47c86e75b7c/banner.svg" style="display: inline-block; vertical-align: middle; margin: 0 20px;" />
+  <img src="https://github.com/EgorChen246/FA/blob/15c945f1ee509b39c04008a7acdbd66e9d23fc25/fa.png" style="display: inline-block; vertical-align: middle; margin: 0 20px;" />
+</div>
 
 ### 1 Курс
 
