@@ -4,6 +4,22 @@
 <img src="https://github.com/EgorChen246/FA/blob/15c945f1ee509b39c04008a7acdbd66e9d23fc25/fa.png" align="right" />
 <br clear="both" />
 
+<p align="center">
+  <svg width="600" height="80" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .text { font: bold 36px sans-serif; fill: #2c3e50; }
+      .anim { animation: fadeIn 2s ease forwards; opacity: 0; }
+      @keyframes fadeIn {
+        0% { opacity: 0; transform: translateY(20px); }
+        100% { opacity: 1; transform: translateY(0); }
+      }
+    </style>
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central" class="text anim">
+      7 на 8, 2 на 1.5 ИТиАБ, вперёд, ура! 🎉
+    </text>
+  </svg>
+</p>
+
 ### 1 Курс
 
 #### 1 семестр
