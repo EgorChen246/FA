@@ -1,24 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120">
 
-  <text x="500"
-        y="70"
-        text-anchor="middle"
-        font-family="Arial, sans-serif"
-        font-size="42"
-        font-weight="bold"
-        fill="#1f3b5b">
+  <defs>
+    <clipPath id="typing">
+      <rect x="120" y="20" width="0" height="100">
+        <animate
+          attributeName="width"
+          values="0;800;800;0"
+          dur="6s"
+          repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <text
+    x="500"
+    y="70"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="42"
+    font-weight="bold"
+    fill="#1f3b5b"
+    clip-path="url(#typing)">
 
     7 на 8, 2 на 1.5 ИТиАБ, вперёд, ура! 🎉
 
-    <animate attributeName="opacity"
-             values="0;1;1;0"
-             dur="4s"
-             repeatCount="indefinite"/>
-
-    <animate attributeName="y"
-             values="90;70;70;50"
-             dur="4s"
-             repeatCount="indefinite"/>
   </text>
 
 </svg>
