@@ -1,35 +1,11 @@
 ## Учебные материалы направления ПИ факультета ИТиАБД в ФУ при Правительстве РФ
 
-<table>
-  <tr>
-    <td align="left" valign="middle" style="padding-right:10px;">
-      <img src="https://github.com/EgorChen246/FA/blob/1b086c8e433ecff022ea296c176b70d64cb60281/pmiit.png" width="85" height="85" />
-    </td>
-    <td align="center" valign="middle" style="white-space:nowrap;">
-      <svg xmlns="http://www.w3.org/2000/svg" width="450" height="60" viewBox="0 0 450 60">
-        <defs>
-          <clipPath id="typing">
-            <rect x="0" y="0" width="0" height="60">
-              <animate attributeName="width" values="0;450;450;0" dur="5s" repeatCount="indefinite"/>
-            </rect>
-          </clipPath>
-        </defs>
-        <text x="225" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#20B2AA" clip-path="url(#typing)">
-          7 на 8, 2 на 1.5 ИТиАБ, вперёд, ура! 🎉
-        </text>
-      </svg>
-    </td>
-    <td align="right" valign="middle" style="padding-left:10px;">
-      <img src="https://github.com/EgorChen246/FA/blob/15c945f1ee509b39c04008a7acdbd66e9d23fc25/fa.png" width="85" height="85" />
-    </td>
-  </tr>
-</table>
-
+<img src="https://github.com/EgorChen246/FA/blob/1b086c8e433ecff022ea296c176b70d64cb60281/pmiit.png" width="85" height="85" align="left" />
+<img src="https://github.com/EgorChen246/FA/blob/6b4fb015539c2d9602e7f3a63b21b47c86e75b7c/banner.svg" align="center">
+<img src="https://github.com/EgorChen246/FA/blob/15c945f1ee509b39c04008a7acdbd66e9d23fc25/fa.png" align="right" />
 <br clear="both" />
 
-## Учебные материалы направления ПИ факультета ИТиАБД в ФУ при Правительстве РФ
-
-### 1 Курс
+<img src="https://github.com/EgorChen246/FA/blob/6b4fb015539c2d9602e7f3a63b21b47c86e75b7c/banner.svg" align="center">
 
 ### 1 Курс
 
