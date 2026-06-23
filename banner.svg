@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120">
+  <rect width="100%" height="100%" fill="white"/>
+
+  <text x="500"
+        y="70"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="42"
+        font-weight="bold"
+        fill="#1f3b5b">
+
+    7 на 8, 2 на 1.5 ИТиАБ, вперёд, ура! 🎉
+
+    <animate
+      attributeName="opacity"
+      values="0;1;1;0;0"
+      dur="4s"
+      repeatCount="indefinite"/>
+  </text>
+</svg>
