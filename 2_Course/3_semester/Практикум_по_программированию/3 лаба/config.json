@@ -1,0 +1,19 @@
+{
+    "window_width": 1000,
+    "window_height": 700,
+    "background_color": [0, 0, 0],
+    "boid_color": [200, 240, 255],
+    "boid_size": 8,
+    "boid_count": 165,
+    "max_speed": 4.0,
+    "min_speed": 2.0,
+    "perception": 50,
+    "separation_weight": 1.5,
+    "alignment_weight": 1.0,
+    "cohesion_weight": 1.0,
+    "separation_enabled": true,
+    "alignment_enabled": true,
+    "cohesion_enabled": true,
+    "margin": 100,
+    "turn_factor": 0.2
+}
