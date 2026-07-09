@@ -3,8 +3,10 @@
 Практическая часть экзамена: https://github.com/Mohanad0101/NetworkSystemPracticalLab  
 Теоретическая часть экзамена: https://github.com/Mohanad0101/NetworSystemsQuestions  
 Общая инфа об экзамене: https://github.com/Mohanad0101/ModernTechExam  
+
 ---
-14. Дз: https://github.com/Mohanad0101/ModernTechHomeWork  
+
+14 Дз: https://github.com/Mohanad0101/ModernTechHomeWork  
 13 работа: https://github.com/Mohanad0101/DockerComposeLab  
 12 работа: https://github.com/Mohanad0101/LAB-17-FTP-Server  
 11 работа (проект): https://github.com/Mohanad0101/Linux-Project_N01  
