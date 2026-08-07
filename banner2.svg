@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120">
+
+  <defs>
+    <clipPath id="typing">
+      <rect x="20" y="10" width="0" height="100">
+        <animate
+          attributeName="width"
+          values="0;800;800;0"
+          dur="6s"
+          repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <text
+    x="500"
+    y="70"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="30"
+    font-weight="bold"
+    fill="#20B2AA"
+    clip-path="url(#typing)">
+
+    7 на 8, 2 на 1.5 ИТиАБ, вперёд, ура! 🎉
+
+  </text>
+
+</svg>
